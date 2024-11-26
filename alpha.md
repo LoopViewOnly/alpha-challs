@@ -66,7 +66,7 @@
 
 ---
 
-## 📋 Level 7: Nav Bar (without `<navbar>`)
+## 📋 Level 7: (Navbar)
 
 1. Use the `<div>` tag to create a container for a horizontal navigation bar.
 2. Add three links: “Home,” “About,” and “Contact” inside the navigation bar.

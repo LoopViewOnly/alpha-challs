@@ -82,6 +82,3 @@
 2. Create a footer with your name and the current year.
 3. Add meta tags in the `<head>` for responsiveness and description.
 4. Add a background image to the body using external CSS.
-5. Center the content of the page using CSS.
-message.txt
-4 KB

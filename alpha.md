@@ -3,7 +3,7 @@
 
 # 👋 Hello Loopers
 
-### This site is to practice HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png](https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='10%'>
+### This site is to practice HTML <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='10%'>
 
 
 ### Use this link to code: [https://tinyurl.com/loop-alpha-html](https://tinyurl.com/loop-alpha-html/)

@@ -3,7 +3,7 @@
 
 # 👋 Hello Loopers
 
-### This site is to practice HTML <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='10%'>
+### This site is to practice HTML <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='5%'>
 
 
 ### Use this link to code: [https://tinyurl.com/loop-alpha-html](https://tinyurl.com/loop-alpha-html/)

@@ -5,8 +5,7 @@
 
 ### This site is to practice HTML <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='5%'>
 
-
-### Use this link to code: <a href="https://tinyurl.com/loop-alpha-html" target="_blank"> https://tinyurl.com/loop-alpha-html </a>
+### Use this link to code: <a href="https://tinyurl.com/loop-alpha-html" target="_blank">https://tinyurl.com/loop-alpha-html</a>
 
 ---
 
@@ -14,7 +13,7 @@
 
 1. Create an HTML page with a `<head>` section that includes a title “My Favorite Animal”
 2. Add a `<body>` section with a heading `<h1>` that says “Welcome to My Site.”
-3. Add `<h2>` to `<h6>` descripe your favorite animal.
+3. Add `<h2>` to `<h6>` to describe your favorite animal.
 4. Create a paragraph `<p>` describing your favorite animal
 
 ---
@@ -24,7 +23,7 @@
 1. Add a line break `<br>` between two sentences in a paragraph.
 2. Insert a horizontal line `<hr>` to divide two sections of the page.
 3. Add an image `<img>` for your favorite animal.
-4. Add a clickable link `<a>` that takes us to your favorite animal wikipedia page.
+4. Add a clickable link `<a>` that takes us to your favorite animal Wikipedia page.
 
 ---
 
@@ -42,7 +41,7 @@
 1. Create an unordered list `<ul>` with three items: “Apples,” “Oranges,” and “Bananas.”
 2. Create an ordered list `<ol>` with three items: “Step 1,” “Step 2,” and “Step 3.”
 3. Add a description to one of the list items using `<li>` text.
-4. Style the list items using CSS to change the text color to Green
+4. Style the list items using CSS to change the text color to Green.
 
 ---
 

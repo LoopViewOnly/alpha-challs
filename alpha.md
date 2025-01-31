@@ -5,8 +5,7 @@
 
 ### This site is to practice HTML <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width='5%'>
 
-### Use this link to code: <a href="https://tinyurl.com/loop-alpha-html" target="_blank">https://tinyurl.com/loop-alpha-html</a>
-
+### Use this link to code: `https://tinyurl.com/loop-alpha-html`
 ---
 
 ## 📋 Level 1: (head, body, h1-h6, p)

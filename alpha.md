@@ -7,6 +7,7 @@
 
 ### Use this link to code: <a href="https://tinyurl.com/loop-alpha-html" target="_blank">https://tinyurl.com/loop-alpha-html</a>
 
+### [html editor](https://tinyurl.com/loop-alpha-html){:target="_blank"}
 ---
 
 ## 📋 Level 1: (head, body, h1-h6, p)
